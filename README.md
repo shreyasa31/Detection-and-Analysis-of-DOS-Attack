@@ -1,8 +1,3 @@
-It looks like the document is a mini-project report on **Detection and Analysis of DoS (Denial of Service) Attack**. Below is a **README** file summarizing the contents of the document:
-
----
-
-# README: Detection & Analysis of DoS Attack
 
 ## Project Title:
 **Detection and Analysis of DoS Attack**
@@ -54,6 +49,4 @@ Denial of Service (DoS) attacks are a major threat to online services, preventin
 - Research papers and studies on DoS attack detection and prevention.
 - Literature on intrusion detection systems and network security frameworks.
 
----
 
-Let me know if you need any modifications or additional details! 🚀
